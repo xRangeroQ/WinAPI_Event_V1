@@ -1,4 +1,4 @@
-# Windows_Event
+# WinAPI_Event_V1
 
 ## 📌 Purpose
 This project demonstrates how to handle **Windows events** in a C++ application.  
